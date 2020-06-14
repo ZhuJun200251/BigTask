@@ -1,0 +1,43 @@
+MainWindow.cpp文件：
+1. 增加了显示防御塔范围按钮(QPushButton)
+2. 增加了生命值和金钱的文本(QLabel)和图片(QPixmap)
+3. 增加了失败标签
+4. 增加了升级的操作
+5. 在+MainWindow::mousePressEvent(QMouseEvent *ev):void中增加了右键取消的功能。
+6. 增加了两个关卡
+7. 在地图数组中加上了家位置的循环
+
+MainWindow.h文件：
+1. 增加了+lifecoor: CoorStr*, +moneycoor: CooStr*两个成员
+2. 增加了-grade: int 成员
+3. 增加了虚析构函数
+
+FireTurret.h文件：
+1. 增加了虚析构函数;
+2. 将底座的路径改为了“：/image/绿瓶底座.png”;
+
+BigTurret.h文件：
+1. 增加了虚析构函数
+
+GreenTurret.h文件：
+1. 增加了虚析构函数;
+2. 将底座的路径改为了“：/image/绿瓶底座.png”;
+
+LightTurret.h文件:
+1. 增加了虚析构函数
+
+DefeTowerParent.h文件：
+1. 增加了+SetDefImgPath(const QString): void函数
+
+DefeTowerParent.cpp文件：
+1. 实现了+SetDefImgPath(const QString): void函数
+
+Source文件：
+1. 增加了“闪电药剂”、“缓慢药剂”图片；
+2. 删除了“购买状态绿瓶”、“购买状态火瓶”图片；
+3. 增加了“二级大炮”、“三级大炮”、“二级光炮”、“三级光炮”图片；
+4. 删除了“火瓶底座”图片；
+
+增加了ui文件
+所有文件加上了注释
+解决了家循环错误的bug
