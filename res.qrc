@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/草地块.png</file>
+        <file>image/二级火瓶.png</file>
+        <file>image/二级绿瓶.png</file>
+        <file>image/房子.png</file>
+        <file>image/绿瓶子弹.png</file>
+        <file>image/炮弹1.png</file>
+        <file>image/炮弹2.png</file>
+        <file>image/炮弹3.png</file>
+        <file>image/三级火瓶.png</file>
+        <file>image/三级绿瓶.png</file>
+        <file>image/石砖块.png</file>
+        <file>image/选择框.png</file>
+        <file>image/地面.png</file>
+        <file>image/界面背景.png</file>
+        <file>image/怪物1.png</file>
+        <file>image/怪物2.png</file>
+        <file>image/怪物4.png</file>
+        <file>image/怪物5.png</file>
+        <file>image/怪物3.png</file>
+        <file>image/绿瓶底座.png</file>
+        <file>image/金钱.png</file>
+        <file>image/生命.png</file>
+        <file>image/等级2.png</file>
+        <file>image/等级3.png</file>
+        <file>image/等级1.png</file>
+        <file>image/关卡1.png</file>
+        <file>image/关卡2.png</file>
+        <file>image/关卡3.png</file>
+        <file>image/缓慢药剂.png</file>
+        <file>image/闪电药剂.png</file>
+        <file>image/二级光炮.png</file>
+        <file>image/三级大炮.png</file>
+        <file>image/二级大炮.png</file>
+        <file>image/缓慢药剂准备状态.png</file>
+        <file>image/闪电药剂准备状态.png</file>
+        <file>image/三级光炮.png</file>
+        <file>image/一级大炮.png</file>
+        <file>image/一级光炮.png</file>
+        <file>image/一级火瓶.png</file>
+        <file>image/一级绿瓶.png</file>
+    </qresource>
+</RCC>

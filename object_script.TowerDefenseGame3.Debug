@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\defensetowerpit.o
+./debug\selectionbox.o
+./debug\defetowerparent.o
+./debug\greenturret.o
+./debug\monster.o
+./debug\fireturret.o
+./debug\lightturret.o
+./debug\bigturret.o
+./debug\startfrom.o
+./debug\magic.o
+./debug\qrc_res.o
+);

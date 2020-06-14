@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\defensetowerpit.o
+./release\selectionbox.o
+./release\defetowerparent.o
+./release\greenturret.o
+./release\monster.o
+./release\fireturret.o
+./release\lightturret.o
+./release\bigturret.o
+./release\startfrom.o
+./release\magic.o
+./release\qrc_res.o
+);
